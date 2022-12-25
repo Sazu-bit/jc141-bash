@@ -1,6 +1,11 @@
-### Setup Guide - Arch 
-  
-- Also applies to EndeavourOS, Artix, ArcoLinux, Manjaro etc.
+### Setup Guide - Arch Linux
+This document will take you, step-by-step, through the process to play our games on your Arch Linux based GNU/Linux distribution. This guide is also intended by use by those using:
+
+- ArcoLinux
+- Artix
+- EndeavourOS
+- Manjaro
+- and others.
 
 #### add rumpowered repo and multilib
 ```sh
