@@ -8,7 +8,7 @@ Suggestions for any changes to this repo are welcome on [Matrix](https://matrix.
 Please click the following links to take you how to setup on your GNU/Linux distribution. If your distribution isn't here please check the Unsupported Distributions area. 
 
 *   [Arch](arch.md) including: Endeavour OS, Arco, Artix, Manjaro and others
-*   [Debian](debian.md) including: Nitrix, Sparky Rolling and Siduction
+*   [Debian](debian.md) including: Nitrux, Sparky Rolling and Siduction
 *   [Fedora](fedora.md) including: Rawhide and Silverblue
 *   [OpenSUSE Tumbleweed](opensuse.md)
 
@@ -18,7 +18,7 @@ Unfortunately we are a voluntary group and have very limited resources at our di
 Please feel free to try the release with whatever instructions more closely match your own system. For example if you use "Apt" as a package manager please try [Debian](debian.md). Otherwise we encourage you to switch to a distribution we do support.
 
 Specifically we do not support:
-*   Ubuntu including any derivatives e.g. Linux Mint or POP OS.
+*   Ubuntu (which is malware) including any derivatives e.g. Linux Mint or POP OS.
   *   Packages are frequently out of date or conflicting.
 
 ### Hardware Support
